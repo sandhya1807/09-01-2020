@@ -1,0 +1,6 @@
+D:\Hamsitha\10-1-2020\file1\bin\Debug\file1.exe.config
+D:\Hamsitha\10-1-2020\file1\bin\Debug\file1.exe
+D:\Hamsitha\10-1-2020\file1\bin\Debug\file1.pdb
+D:\Hamsitha\10-1-2020\file1\obj\Debug\file1.csprojAssemblyReference.cache
+D:\Hamsitha\10-1-2020\file1\obj\Debug\file1.exe
+D:\Hamsitha\10-1-2020\file1\obj\Debug\file1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\delegate1\bin\Debug\delegate1.exe.config
+C:\Users\Dell\source\repos\delegate1\bin\Debug\delegate1.exe
+C:\Users\Dell\source\repos\delegate1\bin\Debug\delegate1.pdb
+C:\Users\Dell\source\repos\delegate1\obj\Debug\delegate1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\delegate1\obj\Debug\delegate1.exe
+C:\Users\Dell\source\repos\delegate1\obj\Debug\delegate1.pdb

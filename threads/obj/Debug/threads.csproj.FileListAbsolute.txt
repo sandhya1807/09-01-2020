@@ -1,0 +1,6 @@
+D:\Hamsitha\10-1-2020\threads\bin\Debug\threads.exe.config
+D:\Hamsitha\10-1-2020\threads\bin\Debug\threads.exe
+D:\Hamsitha\10-1-2020\threads\bin\Debug\threads.pdb
+D:\Hamsitha\10-1-2020\threads\obj\Debug\threads.csprojAssemblyReference.cache
+D:\Hamsitha\10-1-2020\threads\obj\Debug\threads.exe
+D:\Hamsitha\10-1-2020\threads\obj\Debug\threads.pdb
